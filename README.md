@@ -11,7 +11,7 @@ Feel free to check out my repositories and projects, and don't hesitate to reach
 ---
 
 ### My Interests
-- Making bad projects when I feel like it - get bored
+- Making bad projects when I feel like it
 - Gaming in general
 
 ---
@@ -24,4 +24,3 @@ If you like what I do and want to support me:
 - **ETH**: `0x2bBEd454F4E61e44Ae3b4440fE8ffF118D83B6b4`
 
 Thanks for stopping by ✌️
----
