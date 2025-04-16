@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hi, I'm fraudian
 
-<!--
-**fraudian/fraudian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! Here’s a little about me:
 
-Here are some ideas to get you started:
+- 🎮 **Minecraft**: [fraudian on NameMC](https://namemc.com/profile/fraudian)
+- 🎥 **YouTube**: [@fr4c1ur3d](https://www.youtube.com/@fr4c1ur3d)
+- 💬 **Discord**: [fraudian](https://discord.com/users/1013670984689131545)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Feel free to check out my repositories and projects, and don't hesitate to reach out!
+
+---
+
+### My Interests
+- Making bad projects when I feel like it - get bored
+- Gaming in general
