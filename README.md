@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! Here’s a little about me:
 
-- 🎮 **Minecraft**: [fraudian on NameMC](https://namemc.com/profile/fraudian)
+- 🎮 **Minecraft**: [fraudian](https://namemc.com/profile/fraudian)
 - 🎥 **YouTube**: [@fr4c1ur3d](https://www.youtube.com/@fr4c1ur3d)
 - 💬 **Discord**: [fraudian](https://discord.com/users/1013670984689131545)
 
