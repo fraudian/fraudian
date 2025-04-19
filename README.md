@@ -11,7 +11,7 @@ Feel free to check out my repositories and projects, and don't hesitate to reach
 ---
 
 ### My Interests
-- Making bad projects when I feel like it
+- Uploading random stuff to Github when I feel like it
 - Gaming in general
 
 ---
